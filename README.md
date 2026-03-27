@@ -83,11 +83,13 @@
 
 ---
 
+### Neural Contributions
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dige04/dige04/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dige04/dige04/output/github-snake.svg" />
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/dige04/dige04/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dige04/dige04/output/github-neural-contrib-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dige04/dige04/output/github-neural-contrib.svg" />
+    <img alt="neural contribution graph" src="https://raw.githubusercontent.com/dige04/dige04/output/github-neural-contrib-dark.svg" />
   </picture>
 </p>
 

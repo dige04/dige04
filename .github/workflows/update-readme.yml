@@ -1,0 +1,32 @@
+name: Update Profile Header
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours (gradient shifts with time of day)
+  workflow_dispatch:        # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-header:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate header SVG
+        run: node generate-header.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git diff --quiet header.svg header-light.svg || {
+            git add header.svg header-light.svg
+            git commit -m "chore: update header gradient"
+            git push
+          }

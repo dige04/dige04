@@ -1,0 +1,9 @@
+{
+  "name": "dige04",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GitHub profile README",
+  "scripts": {
+    "generate": "node generate-header.js"
+  }
+}

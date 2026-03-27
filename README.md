@@ -5,7 +5,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://hieudinh.dev"><img src="https://img.shields.io/badge/Blog-6C63FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://hieudinh.dev"><img src="https://img.shields.io/badge/hieudinh.dev-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="mailto:hi@hieudinh.dev"><img src="https://img.shields.io/badge/hi@hieudinh.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/dinhthanhhieu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/dige04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 

@@ -36,5 +36,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          author: dige04 <107253969+dige04@users.noreply.github.com>
+          committer: dige04 <107253969+dige04@users.noreply.github.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

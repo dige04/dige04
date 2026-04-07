@@ -118,7 +118,7 @@
   <polygon class="hex" points="562.1243556529821,153 562.1243556529821,167 550,174 537.8756443470179,167 537.8756443470179,153 550,146" fill="none" stroke="#0d9488" stroke-width="1" opacity="0.04" style="animation-delay: 1.2s"/>
 
   <!-- Data streams -->
-  <g class="data" style="animation-delay: 0s; animation-duration: 2.2407722342670944s">
+  <g class="data" style="animation-delay: 0s; animation-duration: 2.570022871781436s">
       <text x="500" y="0" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">0</text>
       <text x="500" y="18" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">1</text>
       <text x="500" y="36" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">1</text>
@@ -128,7 +128,7 @@
       <text x="500" y="108" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">0</text>
       <text x="500" y="126" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">1</text>
     </g>
-  <g class="data" style="animation-delay: 0.7s; animation-duration: 2.060523627749093s">
+  <g class="data" style="animation-delay: 0.7s; animation-duration: 2.5471727325479327s">
       <text x="540" y="0" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">1</text>
       <text x="540" y="18" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">0</text>
       <text x="540" y="36" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">1</text>
@@ -138,7 +138,7 @@
       <text x="540" y="108" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">0</text>
       <text x="540" y="126" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">0</text>
     </g>
-  <g class="data" style="animation-delay: 1.4s; animation-duration: 2.690148295108545s">
+  <g class="data" style="animation-delay: 1.4s; animation-duration: 2.282885591306195s">
       <text x="570" y="0" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">0</text>
       <text x="570" y="18" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">1</text>
       <text x="570" y="36" font-family="'SF Mono', 'Fira Code', monospace" font-size="10" fill="#0d9488" opacity="0.12">0</text>
